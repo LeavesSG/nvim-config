@@ -1,0 +1,5 @@
+# packer complied
+/plugin
+
+# macos
+.DS_Store
